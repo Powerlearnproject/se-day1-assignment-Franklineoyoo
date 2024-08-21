@@ -7,7 +7,11 @@ Explain what software engineering is and discuss its importance in the technolog
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1. The establishment of software engineering as a discipline in 1960's
+2. The advent of structured programming in the 1970's
+3. Rise of Agile methodologies in the 2000's
+   Description: Agile methodologies, including frameworks like Scrum and Extreme Programming (XP), emphasize iterative development, customer collaboration, and flexibility. Agile emerged as a response to the limitations of traditional, linear development models like Waterfall.
+   Impact: Agile transformed software engineering by promoting adaptability, faster release cycles, and continuous customer feedback, becoming the dominant approach in the industry today.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
